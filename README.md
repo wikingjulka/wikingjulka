@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Julius
 - 👀 I’m interested in Android App development
-- 🌱 I’m currently learning Flutter
